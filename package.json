@@ -1,0 +1,22 @@
+{
+  "name": "sword",
+  "version": "1.0.0",
+  "description": "First file",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello world"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpsswordtest/Master.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Thomas Salisbury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tpsswordtest/Master/issues"
+  },
+  "homepage": "https://github.com/tpsswordtest/Master#readme"
+}
